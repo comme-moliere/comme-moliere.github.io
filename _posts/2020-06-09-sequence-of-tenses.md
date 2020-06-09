@@ -54,7 +54,7 @@ If you want to talk about a situation that is likely to happen in the future, yo
 
 This case deals with conditional situations that are likely to happen (in the future). Example :
 
-`Si j’ai un enfant, il s’appelera Charles.`
+`Si j’ai un enfant, il s’appellera Charles.`
 
 *If I have a kid, he will be named Charles.`
 
