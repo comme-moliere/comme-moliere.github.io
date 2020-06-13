@@ -67,7 +67,7 @@ use:
 
   - [arrêter](https://la-conjugaison.nouvelobs.com/du/verbe/arreter.php) (*to stop*) : `arrêter de` + infinitive verb.
   - [décider](https://la-conjugaison.nouvelobs.com/du/verbe/decider.php) (*to decide*) : `décider de` + infinitive verb.
-  - [s’intéresser](https://la-conjugaison.nouvelobs.com/du/verbe/s_interesser.php) (*to decide*) : `s’intéresser à` + infinitive verb.
+  - [s’intéresser](https://la-conjugaison.nouvelobs.com/du/verbe/s_interesser.php) (*to be interested in*) : `s’intéresser à` + infinitive verb.
 
 Examples:
 
