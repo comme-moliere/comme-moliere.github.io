@@ -68,6 +68,7 @@ use:
   - [arrêter](https://la-conjugaison.nouvelobs.com/du/verbe/arreter.php) (*to stop*) : `arrêter de` + infinitive verb.
   - [décider](https://la-conjugaison.nouvelobs.com/du/verbe/decider.php) (*to decide*) : `décider de` + infinitive verb.
   - [s’intéresser](https://la-conjugaison.nouvelobs.com/du/verbe/s_interesser.php) (*to be interested in*) : `s’intéresser à` + infinitive verb.
+  - [penser](https://la-conjugaison.nouvelobs.com/du/verbe/penser.php) (*to think about*) : `penser à` + infinitive verb.
 
 Examples:
 
@@ -82,6 +83,10 @@ Examples:
 `Je m’intéresse aux sciences.`
 
 *I am interested in sciences.*
+
+`Je pense à apprendre la musique.`
+
+*I think about learning music.*
 
 That's it, for the moment! The above list could be expanded if I meet foreigners making mistakes with some other verbs.
 Please note that you will mostly be understood by native speakers whether you do mistakes or not, so this is not a big
