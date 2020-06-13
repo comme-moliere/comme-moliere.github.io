@@ -1,6 +1,6 @@
 # Verbs and prepositions
 
-Hey French learners! Today, a quick not on how to use preposition after certain
+Hey French learners! Today, a quick note on how to use preposition after certain
 intransitive verbs.
 
 First as a reminder: what is an intransitive verb? Well, it's a verb that has
