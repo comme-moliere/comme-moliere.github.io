@@ -65,12 +65,17 @@ Etc.
 Now that you have understood this simple rule, here is a list of verbs followed by the prepositions that you should
 use:
 
+  - [aider](https://la-conjugaison.nouvelobs.com/du/verbe/aider.php) (*to help*) : `aider à` + infinitive verb.
   - [arrêter](https://la-conjugaison.nouvelobs.com/du/verbe/arreter.php) (*to stop*) : `arrêter de` + infinitive verb.
   - [décider](https://la-conjugaison.nouvelobs.com/du/verbe/decider.php) (*to decide*) : `décider de` + infinitive verb.
   - [s’intéresser](https://la-conjugaison.nouvelobs.com/du/verbe/s_interesser.php) (*to be interested in*) : `s’intéresser à` + infinitive verb.
   - [penser](https://la-conjugaison.nouvelobs.com/du/verbe/penser.php) (*to think about*) : `penser à` + infinitive verb.
 
 Examples:
+
+`Aidez-moi à apprendre le français.`
+
+*Help me learn French.*
 
 `J’arrête de manger de la viande.`
 
